@@ -1,0 +1,103 @@
+saida_esperada,saida_predita,bleu,rouge1,rouge2,rougeL
+a distância daquelas localidades ao epicentro,a distância do epicentro ao nível do mar,0.0,0.588235294117647,0.26666666666666666,0.47058823529411764
+a profundidade do hipocentro,a profundidade do hipocentro,1.0,1.0,1.0,1.0
+a grande magnitude do sismo,a diferença de magnitude entre os sismos nos dois sítios,0.0,0.23529411764705882,0.0,0.23529411764705882
+o período de semivida do isótopo-pai é menor nos granitos mais recentes,o decaimento radioativo é maior nos granitos mais antigos,0.0,0.36363636363636365,0.2,0.36363636363636365
+o período de semivida do isótopo-pai é maior nos granitos mais recentes,o decaimento radioativo é maior nos granitos mais antigos,0.33471898740037676,0.45454545454545453,0.3,0.45454545454545453
+a razão isótopo-pai/isótopo-filho é maior nos granitos mais antigos,o produto da decaimento radioativo é maior nos granitos mais antigos,0.4617366309441026,0.5,0.3636363636363637,0.5
+"NE-SO, em que a compactação dos materiais contribuiu para a fraturação dos mármores","NO-SE, em que a exploração dos materiais contribuiu para a compactação dos mármores",0.5475857123833053,0.8235294117647058,0.75,0.7647058823529412
+"NO-SE, em que a erosão dos materiais contribuiu para o dobramento dos mármores","NO-SE, em que a ascensão dos materiais contribuiu para a fraturação dos mármores",0.4841524713034601,0.8484848484848485,0.6451612903225806,0.8484848484848485
+"NE-SO, em que o afundimento dos materiais contribuiu para o dobramento dos mármores","NO-SE, em que a ascensão dos materiais contribuiu para a fraturação dos mármores",0.2865612242047131,0.6875,0.39999999999999997,0.6875
+um argumento a favor do catastrofismo,um argumento a favor do epifenomenalismo,0.7598356856515925,0.8333333333333334,0.8000000000000002,0.8333333333333334
+uma evidência de um episódio de orogenia,uma evidência a favor do mobilismo geológico,0.0,0.3333333333333333,0.25,0.3333333333333333
+uma evidência do fecho de um antigo oceano,uma evidência a favor do mobilismo geológico,0.0,0.4444444444444444,0.25,0.4444444444444444
+intracelular realizada em vacúolos digestivos,intracelular realizada num tubo digestivo completo,0.0,0.3333333333333333,0.20000000000000004,0.3333333333333333
+intracelular realizada em vesículas endocíticas,intracelular realizada num tubo digestivo completo,0.0,0.30769230769230765,0.1818181818181818,0.30769230769230765
+extracelular realizada numa cavidade gastrovascular,extracelular realizada num tubo digestivo completo,0.0,0.3636363636363636,0.22222222222222224,0.3636363636363636
+distensão tectónica e espessamento crustal,deslizamento lateral e manutenção da espessura crustal,0.0,0.39999999999999997,0.0,0.26666666666666666
+compressão tectónica e atividade vulcânica,movimento lateral e manutenção da espessura crustal,0.0,0.25,0.0,0.125
+estiramento crustal e formação de uma cadeia orogénica,deslocamento da cadeia crustal ao longo da falha,0.0,0.22222222222222224,0.0,0.11111111111111112
+Fragaria vesca e Agrostis vesca pertencem à mesma espécie e ao género vesca,vesca e vesca Agrostis vesca é uma espécie de morango nativa,0.0,0.56,0.2608695652173913,0.4799999999999999
+Fragaria daltoniana e Fragaria vesca pertencem à mesma espécie e ao género Fragaria,Agrostis vesca Agrostis vesca é uma espécie de morango nativa do Himalaia,0.0,0.23076923076923075,0.08333333333333334,0.23076923076923075
+Fragaria vesca e Agrostis vesca pertencem a espécies distintas do mesmo género,vesca e daltoniana são todas pertencentes à mesma família,0.0,0.16666666666666666,0.09090909090909093,0.16666666666666666
+redução de moléculas de CO2,produção de moléculas de NADPH,0.0,0.7142857142857143,0.6666666666666666,0.7142857142857143
+libertação de O2 com origem no CO2,liberação de CO2,0.0,0.5,0.2,0.5
+descarboxilação de compostos orgânicos,formação de compostos orgânicos,0.0,0.8333333333333334,0.8000000000000002,0.8333333333333334
+transgressões … conglomerados,transgressões ... argilitos,0.0,0.6666666666666666,0.5,0.6666666666666666
+regressões … argilitos,transgressões ... argilitos,0.0,0.6666666666666666,0.5,0.6666666666666666
+regressões … conglomerados,transgressões ... argilitos,0.0,0.3333333333333333,0.0,0.3333333333333333
+relativa … geográfica,relativa ... sedimentar,0.0,0.4,0.0,0.4
+absoluta … estratigráfica,relativa ... estratigráfica,0.0,0.6666666666666666,0.5,0.6666666666666666
+absoluta … geográfica,relativa ... sedimentar,0.0,0.0,0.0,0.0
+Protista … unicelular,Monera ... procarionte,0.0,0.0,0.0,0.0
+Protista … procarionte,Monera ... procarionte,0.0,0.5,0.0,0.5
+Monera … unicelular,Monera ... procarionte,0.0,0.5,0.0,0.5
+é … um aminoácido é codificado apenas por um codão,é ... um codão codifica sempre o mesmo aminoácido,0.0,0.5555555555555556,0.375,0.3333333333333333
+não é … um aminoácido é codificado apenas por um codão,é ... um codão codifica sempre o mesmo aminoácido,0.0,0.6,0.33333333333333326,0.3
+é … um codão codifica sempre o mesmo aminoácido,é ... um codão codifica sempre o mesmo aminoácido,0.5900468726392808,1.0,1.0,1.0
+"a olivina, o diamante e o gesso","o quartzo, o mica e o granito",0.0,0.42857142857142855,0.16666666666666666,0.42857142857142855
+"a calcite, a plagióclase e a piroxena","o piroxena, o granito e o granito",0.0,0.26666666666666666,0.0,0.13333333333333333
+"a plagióclase, a olivina e a calcite",o quartzo e a olivina,0.0,0.4615384615384615,0.36363636363636365,0.3076923076923077
+hibridação entre castanheiros,existência de espécies de castanheiro na Europa,0.0,0.0,0.0,0.0
+frequência de reprodução do inseto,ocorrência de predadores do inseto,0.0,0.6153846153846153,0.3636363636363636,0.6153846153846153
+dispersão rápida dos castanheiros,facilidade de dispersão do inseto,0.0,0.3333333333333333,0.20000000000000004,0.3333333333333333
+uma melhor adaptação ao ambiente,a mesma constituição genética,0.0,0.16666666666666666,0.0,0.16666666666666666
+menor capacidade de reprodução,menor variação genética,0.0,0.4000000000000001,0.0,0.4000000000000001
+o dobro do número de cromossomas,o dobro de cromossomas,0.0,0.7272727272727273,0.4444444444444444,0.7272727272727273
+elevado grau geotérmico … continental,elevada inteligibilidade ... oceânica,0.0,0.0,0.0,0.0
+baixo fluxo térmico … marinha,baixo grau geotérmico ... oceânica,0.0,0.3636363636363636,0.0,0.3636363636363636
+elevado fluxo térmico … continental,elevada concentração hidrotérmica ... oceânica,0.0,0.0,0.0,0.0
+"área extensa, com declives muito suaves",subducção muito densa,0.0,0.2,0.0,0.2
+cadeia extensa de montanhas submersas,depressão muito densa e alongada,0.0,0.0,0.0,0.0
+"zona de vale, limitada por falhas normais",convergência muito densa e densa,0.0,0.0,0.0,0.0
+a concentração dos inseticidas,a concentração dos extractos,0.0,0.8000000000000002,0.75,0.8000000000000002
+o peso médio dos peixes,o peso médio dos peixes,1.0,1.0,1.0,1.0
+o tempo de exposição aos inseticidas,a exposição a produtos químicos,0.0,0.2857142857142857,0.16666666666666666,0.2857142857142857
+fechados … reduzir,fechado ... conduzir,0.0,0.0,0.0,0.0
+fechados … aumentar,fechados ... aumentar,0.0,1.0,1.0,1.0
+abertos … aumentar,abertos ... aumentar,0.0,1.0,1.0,1.0
+pelo plano de falha,pelo plano de falha,1.0,1.0,1.0,1.0
+pela direção da falha,pelo plano de falha,0.0,0.22222222222222224,0.0,0.22222222222222224
+pela inclinação da falha,pelo plano de falha,0.0,0.22222222222222224,0.0,0.22222222222222224
+dissolução da caulinite,meteorização dos rins,0.0,0.25,0.0,0.25
+hidratação da caulinite,meteorização dos rins,0.0,0.25,0.0,0.25
+oxidação dos feldspatos,meteorização dos feldspatos,0.0,0.75,0.6666666666666666,0.75
+"rica em feldspatos potássicos, do tipo dos granitos","mesocrática, do tipo dos dioritos",0.3081980909598119,0.4,0.3076923076923077,0.4
+"melanocrática, do tipo dos peridotitos","mesocrática, do tipo dos piroclastos",0.5081327481546147,0.6666666666666666,0.6,0.6666666666666666
+"rica em olivina, do tipo dos gabros","mesocrática, do tipo dos gabros",0.5444460596606694,0.6153846153846153,0.5454545454545454,0.6153846153846153
+fluidas e de composição basáltica,viscosas e ácidas,0.0,0.2,0.0,0.2
+fluidas e ricas em gases,viscosas e ácidas,0.0,0.25,0.0,0.25
+viscosas e pouco silicatadas,viscosas e ácidas,0.0,0.5714285714285715,0.4,0.5714285714285715
+proteínas,RNA mensageiro,0.0,0.0,0.0,0.0
+DNA,DNA inibido,0.0,0.6666666666666666,0.0,0.6666666666666666
+RNA pré-mensageiro,RNA mensageiro,0.0,0.8,0.0,0.8
+atrair bactérias fixadoras de nitrogénio,facilitar a acumulação de oxigénio livre,0.0,0.26666666666666666,0.0,0.26666666666666666
+fornecer oxigénio para as reações anabólicas,evitar a acumulação de oxigénio pelo organismo,0.0,0.2222222222222222,0.125,0.2222222222222222
+oxidar a enzima nitrogenase,facilitar a fixação de oxigênio livre,0.0,0.16666666666666666,0.0,0.16666666666666666
+possui encraves em relevo menos resistentes à erosão do que o granito,apresenta baixa resistência à erosão,0.0,0.2222222222222222,0.12500000000000003,0.2222222222222222
+resulta de um magma que arrefeceu rapidamente à superfície,resulta da livre passagem de magma tóxico à superfície,0.0,0.5263157894736842,0.11764705882352941,0.5263157894736842
+apresenta uma orientação perpendicular à falha Porto-Tomar,apresenta orientação perpendicular à linha descrevendo a fratura,0.0,0.5,0.2857142857142857,0.5
+heterotrófico por ingestão e heterotrófico por absorção,heterotrófico por ingestão e autotrófico,0.4482700320176827,0.7368421052631579,0.588235294117647,0.7368421052631579
+heterotrófico por absorção e heterotrófico por ingestão,heterotrófico por ingestão e autotrófico,0.0,0.7368421052631579,0.588235294117647,0.631578947368421
+heterotrófico por absorção e autotrófico,heterotrófico por ingestão e autotrófico,0.0,0.875,0.7142857142857143,0.875
+astenosfera … atravessada só por ondas P,astenosfera ... de baixa velocidade sísmica,0.0,0.3333333333333333,0.0,0.3333333333333333
+litosfera … atravessada por ondas P e S,astenosfera ... de baixa velocidade sísmica,0.0,0.15384615384615383,0.0,0.15384615384615383
+litosfera … de sombra sísmica,astenosfera ... de baixa velocidade sísmica,0.0,0.5454545454545454,0.22222222222222224,0.5454545454545454
+mal calibrados e arredondados,mal calibrados e arredondados,1.0,1.0,1.0,1.0
+bem calibrados e angulosos,bem calibrados e arredondados,0.0,0.75,0.6666666666666666,0.75
+mal calibrados e angulosos,mal calibrados e arredondados,0.0,0.75,0.6666666666666666,0.75
+instável … maior,estável ... maior,0.0,0.6666666666666666,0.5,0.6666666666666666
+estável … menor,estável ... maior,0.0,0.6666666666666666,0.5,0.6666666666666666
+estável … maior,estável ... maior,0.0,1.0,1.0,1.0
+clivagem … superior,clivagem ... superior,0.0,1.0,1.0,1.0
+fratura … superior,carbonatação ... superior,0.0,0.4,0.0,0.4
+fratura … inferior,carbonatação ... inferior,0.0,0.4,0.0,0.4
+desfavoráveis … iguais,desfavoráveis ... iguais,0.0,1.0,1.0,1.0
+desfavoráveis … diferentes,desfavoráveis ... diferentes,0.0,1.0,1.0,1.0
+favoráveis … diferentes,favoráveis ... diferentes,0.0,1.0,1.0,1.0
+homologias ... divergente,semelhanças ... divergente,0.668740304976422,0.4,0.0,0.4
+homologias ... convergente,semelhanças ... convergente,0.668740304976422,0.4,0.0,0.4
+analogias ... divergente,semelhanças ... divergente,0.668740304976422,0.4,0.0,0.4
+divergente … maior,divergente ... menor,0.0,0.5,0.0,0.5
+convergente … menor,divergente ... menor,0.0,0.5,0.0,0.5
+divergente … menor,divergente ... menor,0.0,1.0,1.0,1.0

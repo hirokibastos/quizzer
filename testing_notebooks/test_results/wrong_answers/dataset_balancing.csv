@@ -1,0 +1,277 @@
+saida_esperada,saida_predita,bleu,rouge1,rouge2,rougeL
+"NE-SO, em que a compactação dos materiais contribuiu para a fraturação dos mármores","NE-SO, que contribui para a compactação dos materiais",0.23139413015310797,0.6666666666666667,0.4800000000000001,0.5925925925925927
+"NO-SE, em que a erosão dos materiais contribuiu para o dobramento dos mármores","central, com dobramento contínuo",0.0,0.09523809523809523,0.0,0.09523809523809523
+"NE-SO, em que o afundimento dos materiais contribuiu para o dobramento dos mármores",NE-SO e estrutura cristalina de dobramento contínua,0.0,0.25,0.09090909090909091,0.25
+um argumento a favor do catastrofismo,um dos principais argumentos a favor da equivalência,0.0,0.4,0.15384615384615385,0.4
+uma evidência de um episódio de orogenia,uma evidência estrutural de que a colisão entre as placas convergentes constitui um evento de orogen,0.0,0.4444444444444444,0.15999999999999998,0.4444444444444444
+uma evidência do fecho de um antigo oceano,uma grande evidência do que se tem por origem,0.0,0.4210526315789474,0.23529411764705882,0.4210526315789474
+intracelular realizada em vacúolos digestivos,extracelular e é responsável pela distribuição de gases respiratórios,0.0,0.0,0.0,0.0
+intracelular realizada em vesículas endocíticas,"endocardíacas, por meio da endolinfa",0.0,0.0,0.0,0.0
+extracelular realizada numa cavidade gastrovascular,"extracelular, por intermédio da cavidade gastrovascular",0.0,0.5,0.2,0.5
+distensão tectónica e espessamento crustal,"lesões de joelhos, que originam um espessamento crustal",0.0,0.25,0.14285714285714288,0.25
+compressão tectónica e atividade vulcânica,mudanças no fluxo tectónico ao longo da falha alpina,0.0,0.10526315789473685,0.0,0.10526315789473685
+estiramento crustal e formação de uma cadeia orogénica,"crustals, com características de cadeias de rochas crustal",0.0,0.2105263157894737,0.0,0.10526315789473685
+Fragaria vesca e Agrostis vesca pertencem à mesma espécie e ao género vesca,as espécies são do género Fugaria vesca e têm uma inclinação mediana,0.0,0.3225806451612903,0.13793103448275862,0.2580645161290323
+Fragaria daltoniana e Fragaria vesca pertencem à mesma espécie e ao género Fragaria,a maioria dos morangos é herbácea e apresenta uma inclinação média de 10o,0.0,0.0689655172413793,0.0,0.0689655172413793
+Fragaria vesca e Agrostis vesca pertencem a espécies distintas do mesmo género,"as espécies que se apresentam são do género ""Potentilla vesca"", sendo um dos",0.0,0.39999999999999997,0.14285714285714288,0.3333333333333333
+redução de moléculas de CO2,redução de moléculas de CO2,1.0,1.0,1.0,1.0
+libertação de O2 com origem no CO2,fixação de CO2,0.0,0.5,0.2,0.5
+descarboxilação de compostos orgânicos,oxidação de compostos orgânicos,0.0,0.8333333333333334,0.8000000000000002,0.8333333333333334
+antes … uma diminuição,diminuição ... diminuição,0.0,0.5,0.3333333333333333,0.5
+antes … um aumento,do agente ... aumento,0.0,0.3333333333333333,0.0,0.3333333333333333
+depois … uma diminuição,diminuição ... diminuição,0.0,0.5,0.3333333333333333,0.5
+leucocráticas … de ferro e de magnésio,magnésio ... ferro,0.0,0.5454545454545454,0.22222222222222224,0.36363636363636365
+melanocráticas … de sílica e de alumínio,sílica ... alumínio,0.0,0.6153846153846153,0.36363636363636365,0.6153846153846153
+melanocráticas … de ferro e de magnésio,magnésio ... ferro,0.0,0.5454545454545454,0.22222222222222224,0.36363636363636365
+superficiais … destrutivo,convergente ... continental,0.0,0.0,0.0,0.0
+superficiais … construtivo,interplaca ... divergente,0.0,0.0,0.0,0.0
+intermédios … construtivo,interplaca ... divergente,0.0,0.0,0.0,0.0
+transgressões … conglomerados,subida ... subida,0.0,0.0,0.0,0.0
+regressões … argilitos,subida ... subida,0.0,0.0,0.0,0.0
+regressões … conglomerados,subida ... subida,0.0,0.0,0.0,0.0
+relativa … geográfica,de rochas sedimentares ... de idade,0.0,0.0,0.0,0.0
+absoluta … estratigráfica,superior ... superior,0.0,0.0,0.0,0.0
+absoluta … geográfica,sedimentar ... de idade,0.0,0.0,0.0,0.0
+Protista … unicelular,Protista ... modificado,0.0,0.5,0.0,0.5
+Protista … procarionte,Protista ... modificado,0.0,0.5,0.0,0.5
+Monera … unicelular,Monera ... modificado,0.0,0.5,0.0,0.5
+é … um aminoácido é codificado apenas por um codão,é ... redundante,0.0,0.0,0.0,0.0
+não é … um aminoácido é codificado apenas por um codão,é ... redundante,0.0,0.0,0.0,0.0
+é … um codão codifica sempre o mesmo aminoácido,é ... redundante,0.0,0.0,0.0,0.0
+"a olivina, o diamante e o gesso",piroxênio e piroxênio,0.0,0.16666666666666666,0.0,0.16666666666666666
+"a calcite, a plagióclase e a piroxena",sedimentar e sedimentar,0.0,0.18181818181818182,0.0,0.18181818181818182
+"a plagióclase, a olivina e a calcite",as condições de quartzo e a olivina,0.0,0.375,0.2857142857142857,0.25
+hibridação entre castanheiros,"hibridação entre o castanheiro e o pinheiro, na maior parte do tempo,",0.0,0.3529411764705882,0.26666666666666666,0.3529411764705882
+frequência de reprodução do inseto,"melhoria da qualidade do ar e da introdução de técnicas de artesanato, principalmente na Europa central",0.0,0.24,0.0,0.08
+dispersão rápida dos castanheiros,facilidade de dispersão dos indivíduos em áreas de cultivo rápida,0.0,0.5263157894736842,0.23529411764705882,0.42105263157894735
+uma melhor adaptação ao ambiente,adaptação melhor condicionada ao ambiente,0.0,0.8333333333333334,0.4000000000000001,0.6666666666666666
+menor capacidade de reprodução,menor capacidade de reprodução,1.0,1.0,1.0,1.0
+o dobro do número de cromossomas,mais cromossomas do que os de uma progenitora,0.0,0.39999999999999997,0.0,0.26666666666666666
+elevado grau geotérmico … continental,convecção hidrotermal ... baixa,0.0,0.0,0.0,0.0
+baixo fluxo térmico … marinha,circulação hidrotermal ... baixa,0.0,0.0,0.0,0.0
+elevado fluxo térmico … continental,circulação hidrotermal ... baixa,0.0,0.0,0.0,0.0
+"área extensa, com declives muito suaves",subducção de magma,0.0,0.0,0.0,0.0
+cadeia extensa de montanhas submersas,de maior densidade na superfície do oceano,0.0,0.15384615384615385,0.0,0.15384615384615385
+"zona de vale, limitada por falhas normais",subducção de material argiloso,0.0,0.16666666666666666,0.0,0.16666666666666666
+a concentração dos inseticidas,a concentração dos resíduos sólidos,0.0,0.6153846153846154,0.5454545454545454,0.6153846153846154
+o peso médio dos peixes,o peso médio dos peixes e a espécie,0.5169731539571706,0.7499999999999999,0.7142857142857143,0.7499999999999999
+o tempo de exposição aos inseticidas,exposição ao soluto,0.0,0.36363636363636365,0.2222222222222222,0.36363636363636365
+fechados … reduzir,negativa ... negativa,0.0,0.0,0.0,0.0
+fechados … aumentar,negativa ... negativa,0.0,0.0,0.0,0.0
+abertos … aumentar,menos ... menor,0.0,0.0,0.0,0.0
+pelo plano de falha,pelo plano de falha,1.0,1.0,1.0,1.0
+pela direção da falha,pelo plano da falha,0.0,0.4444444444444445,0.28571428571428575,0.4444444444444445
+pela inclinação da falha,pelo plano da falha,0.0,0.4444444444444445,0.28571428571428575,0.4444444444444445
+dissolução da caulinite,produção de óxidos de magnésio e de magnésio,0.0,0.13333333333333333,0.0,0.13333333333333333
+hidratação da caulinite,produção de óxidos de magnésio e de magnésio,0.0,0.13333333333333333,0.0,0.13333333333333333
+oxidação dos feldspatos,precipitação química de quartzo e de magnésio,0.0,0.14285714285714288,0.0,0.14285714285714288
+"rica em feldspatos potássicos, do tipo dos granitos",de granitos alcalinos,0.0,0.16666666666666666,0.0,0.16666666666666666
+"melanocrática, do tipo dos peridotitos",de baixo teor sílica,0.0,0.0,0.0,0.0
+"rica em olivina, do tipo dos gabros","litostática, que resulta do arrefecimento do magma",0.0,0.13333333333333333,0.0,0.13333333333333333
+fluidas e de composição basáltica,"basálticas, com formação de lava fluidas",0.0,0.5333333333333333,0.0,0.13333333333333333
+fluidas e ricas em gases,"fluidas, como a de lavas viscosas",0.0,0.1818181818181818,0.0,0.1818181818181818
+viscosas e pouco silicatadas,"muito viscosas, com produção de piroclastos",0.0,0.18181818181818182,0.0,0.18181818181818182
+proteínas,proteínas através da inibição da fosfolipase,0.0,0.3636363636363636,0.2222222222222222,0.3636363636363636
+DNA,DNA,0.0,1.0,0.0,1.0
+RNA pré-mensageiro,"ribossômicos, a partir de nucleotídeos de origem ribossômica",0.0,0.0,0.0,0.0
+atrair bactérias fixadoras de nitrogénio,manter a coloração do solo durante longos períodos,0.0,0.0,0.0,0.0
+fornecer oxigénio para as reações anabólicas,manter a cor do sangue durante longos períodos,0.0,0.0,0.0,0.0
+oxidar a enzima nitrogenase,manter a cor do olfato em baixos níveis,0.0,0.15384615384615383,0.0,0.15384615384615383
+possui encraves em relevo menos resistentes à erosão do que o granito,menos resistentes à erosão e menos menos resistentes ao iceberg,0.2150731916129893,0.3636363636363636,0.3,0.3636363636363636
+resulta de um magma que arrefeceu rapidamente à superfície,reduz a densidade da lava ao subir à superfície,0.0,0.2222222222222222,0.125,0.2222222222222222
+apresenta uma orientação perpendicular à falha Porto-Tomar,toma orientação perpendicular à falha,0.4482700320176827,0.6153846153846154,0.5454545454545454,0.6153846153846154
+heterotrófico por ingestão e heterotrófico por absorção,heterotrófico e autotrófico,0.0,0.5000000000000001,0.14285714285714288,0.5000000000000001
+heterotrófico por absorção e heterotrófico por ingestão,heterotrófico e autotrófico,0.0,0.5000000000000001,0.14285714285714288,0.5000000000000001
+heterotrófico por absorção e autotrófico,heterotrófico e autotrófico,0.0,0.7692307692307693,0.5454545454545454,0.7692307692307693
+astenosfera … atravessada só por ondas P,mantélica ... a litosfera,0.0,0.0,0.0,0.0
+litosfera … atravessada por ondas P e S,mantélica ... menor,0.0,0.0,0.0,0.0
+litosfera … de sombra sísmica,ilha ... baixa,0.0,0.0,0.0,0.0
+mal calibrados e arredondados,os sedimentos marinhos mais consolidados e os mais densos,0.0,0.15384615384615383,0.0,0.15384615384615383
+bem calibrados e angulosos,mais angulosos e mais densos,0.0,0.4444444444444445,0.0,0.22222222222222224
+mal calibrados e angulosos,mais angulosos e mais distantes das zonas mais abrigadas,0.0,0.30769230769230765,0.0,0.15384615384615383
+instável … maior,menor ... mais,0.0,0.0,0.0,0.0
+estável … menor,menor ... mais,0.0,0.4,0.0,0.4
+estável … maior,menor ... mais,0.0,0.0,0.0,0.0
+clivagem … superior,piroxena ... inferior,0.0,0.0,0.0,0.0
+fratura … superior,fratura ... riscada,0.0,0.5,0.0,0.5
+fratura … inferior,fratura ... riscada,0.0,0.5,0.0,0.5
+desfavoráveis … iguais,desfavoráveis ... esporulação,0.0,0.5714285714285715,0.4,0.5714285714285715
+desfavoráveis … diferentes,desfavoráveis ... esporulação,0.0,0.5714285714285715,0.4,0.5714285714285715
+favoráveis … diferentes,favoráveis ... estratificados,0.0,0.6666666666666666,0.5,0.6666666666666666
+homologias ... divergente,diferenças ... sucessivas,0.0,0.0,0.0,0.0
+homologias ... convergente,semelhanças ... convergente,0.668740304976422,0.4,0.0,0.4
+analogias ... divergente,diferenças ... lisossônicos,0.0,0.0,0.0,0.0
+capital fixo e é constituído pelos bens de produção não duradouros,processo de produção,0.0,0.3529411764705882,0.26666666666666666,0.3529411764705882
+capital fixo e é constituído pelos bens de produção duradouros,processo de produção,0.0,0.39999999999999997,0.30769230769230765,0.39999999999999997
+capital técnico e é constituído pelos bens de produção duradouros,processo de produção de bens duradouros,0.0,0.5263157894736842,0.23529411764705885,0.4210526315789474
+externo direto da sua atividade,fiduciária,0.0,0.0,0.0,0.0
+interno indireto da sua atividade,fiduciária,0.0,0.0,0.0,0.0
+interno direto da sua atividade,fiduciária,0.0,0.0,0.0,0.0
+a débito na balança de capital,não-caixa de capital das sociedades não financeiras,0.0,0.22222222222222224,0.125,0.22222222222222224
+a crédito na balança de serviços,de capital das sociedades não financeiras e de serviços,0.0,0.3,0.22222222222222224,0.3
+a crédito na balança de bens,de capital das sociedades não financeiras e de capital das famílias,0.0,0.09523809523809525,0.0,0.09523809523809525
+interno direto,recapitalizado,0.0,0.0,0.0,0.0
+externo indireto,externo,0.0,0.6666666666666666,0.0,0.6666666666666666
+interno indireto,recapitalizado,0.0,0.0,0.0,0.0
+EURATOM,Comunidade Europeia do Carvão e do Aço,0.0,0.0,0.0,0.0
+CEE,Comunidade Europeia do Carvão e do Aço,0.0,0.0,0.0,0.0
+EFTA,Comunidade Europeia do Carvão e do Aço,0.0,0.0,0.0,0.0
+administrações públicas,custos indiretos e de capital,0.0,0.0,0.0,0.0
+sociedades financeiras prestadoras de serviços às famílias,sociedades financeiras,0.0,0.3636363636363636,0.2222222222222222,0.3636363636363636
+instituições sem fim lucrativo ao serviço das famílias,os custos de produção e os custos de armazenamento,0.0,0.09523809523809525,0.0,0.09523809523809525
+um emprego do resto do mundo e das sociedades financeiras do país A,um bem público,0.0,0.11111111111111112,0.0,0.11111111111111112
+um recurso do resto do mundo e um emprego das sociedades financeiras do país A,um bem cultural do resto do mundo,0.13863533666885183,0.43478260869565216,0.28571428571428575,0.43478260869565216
+um recurso do resto do mundo e das sociedades financeiras do país A,um bem público,0.0,0.11111111111111112,0.0,0.11111111111111112
+no mercado comum e na zona de comércio livre,na zona de união aduaneira e na união econômica,0.0,0.3636363636363636,0.3,0.2727272727272727
+na zona de comércio livre e na união económica,na zona de comércio livre e na união aduaneira,0.8633400213704505,0.8695652173913043,0.8571428571428572,0.8695652173913043
+na zona de comércio livre e na união monetária,na zona de comércio livre e no estabelecimento de uma pauta aduaneira externa,0.38058030016749456,0.5384615384615384,0.4999999999999999,0.5384615384615384
+proteger os interesses das pequenas e médias empresas,defender os interesses das empresas,0.0,0.5714285714285714,0.3333333333333333,0.5714285714285714
+defender os interesses dos produtores e dos vendedores,defender os interesses dos produtores e defender a sua classe,0.5169731539571706,0.6666666666666665,0.6250000000000001,0.6666666666666665
+estimular padrões de consumo massificados,estimular o consumo de alimentos em escala industrial,0.0,0.42857142857142855,0.0,0.28571428571428575
+poupança,um recurso à poupança,0.0,0.6666666666666666,0.5,0.6666666666666666
+investimento,um recurso da Economia,0.0,0.0,0.0,0.0
+capital,um recurso à poupança,0.0,0.0,0.0,0.0
+na Balança de capital portuguesa,em Portugal,0.0,0.0,0.0,0.0
+na Balança corrente portuguesa,em Portugal,0.0,0.0,0.0,0.0
+na Balança de rendimentos portuguesa,em Portugal,0.0,0.0,0.0,0.0
+"falsa, pois esta medida desincentiva as importações de bens agrícolas, promovendo a produção nacional","falsa, pois este Estado está a reduzir as importações de bens deste país",0.23045806594604668,0.5,0.3333333333333333,0.43749999999999994
+"falsa, pois, através desta medida, o Estado está a definir limites quantitativos às importações de bens agrícolas","falsa, pois o valor da produção destes bens é igual ao valor da distribuição",0.0,0.2285714285714286,0.06060606060606061,0.2285714285714286
+"verdadeira, pois, através desta medida, o Estado está a definir diretamente o preço das importações","falsa, pois o Estado está a regular a distribuição do produto",0.15291812286526518,0.4,0.21428571428571427,0.4
+"Portugal, Alemanha e Dinamarca","a França, a Bélgica e a França",0.0,0.14285714285714288,0.0,0.14285714285714288
+"Bélgica, Grécia e Reino Unido",na Europa,0.0,0.0,0.0,0.0
+"Espanha, França e Suécia","a Espanha, a Itália e a França",0.0,0.5333333333333333,0.15384615384615385,0.4
+comércio itinerante,venda direta,0.0,0.0,0.0,0.0
+venda direta,venda direta,0.0,1.0,1.0,1.0
+comércio eletrónico,venda direta,0.0,0.0,0.0,0.0
+Fundo de Cooperação,um recurso da União Europeia,0.0,0.2,0.0,0.2
+Fundo Europeu de Desenvolvimento Regional,a participação de Estados-membros nos projetos de desenvolvimento regional,0.0,0.37499999999999994,0.28571428571428575,0.37499999999999994
+Fundo Europeu de Estabilização Financeira,apoio financeiro aos projetos de desenvolvimento regional,0.0,0.15384615384615383,0.0,0.15384615384615383
+"falsa, pois estes serviços são despesas de capital da família, sendo contabilizados pelo Sistema de Contas Nacionais","falsa, porque o valor dos serviços prestados pelos prestadores é igual ao valor dos serviços prestados",0.0,0.2162162162162162,0.05714285714285714,0.16216216216216214
+"verdadeira, pois o valor destes serviços é contabilizado como consumo final pelo Sistema de Contas Nacionais","falsa, pois o valor dos bens e serviços produzidos pelos mesmos prestadores é diferente do valor dos",0.1487964117124549,0.30303030303030304,0.19354838709677422,0.30303030303030304
+"verdadeira, pois estes serviços são mercantis, não sendo contabilizados pelo Sistema de Contas Nacionais","falsa, porque o valor dos serviços prestados pelos prestadores é igual ao valor do PIB desse país",0.0,0.22857142857142856,0.06060606060606061,0.17142857142857143
+diferentes dos direitos aplicados sobre o mesmo bem pelos restantes Estados-membros e constituem uma das despesas do Orçamento da União,os direitos de propriedade e os direitos de imprensa,0.0,0.125,0.0,0.125
+iguais aos direitos aplicados sobre o mesmo bem pelos restantes Estados-membros e constituem,iguais,0.0,0.13333333333333333,0.0,0.13333333333333333
+diferentes dos direitos aplicados sobre o mesmo bem pelos restantes Estados-membros e constituem uma das receitas do Orçamento da União,os direitos de propriedade e os direitos de imprensa,0.0,0.125,0.0,0.125
+sociedade corretora,instituição financeira,0.0,0.0,0.0,0.0
+sociedade de leasing,instituição financeira,0.0,0.0,0.0,0.0
+sociedade imobiliária,instituição financeira,0.0,0.0,0.0,0.0
+superior a 10 e inferior a 12,maior do que o valor do salário médio,0.0,0.0,0.0,0.0
+superior a 8 e inferior a 10,o valor médio dos salários pagos aos trabalhadores,0.0,0.0,0.0,0.0
+igual a 12,maior do que o valor do salário médio,0.0,0.0,0.0,0.0
+o estado emocional do orador,o reconhecimento da credibilidade do discurso,0.0,0.3636363636363636,0.0,0.3636363636363636
+o pathos do auditório,"o conhecimento do ""pathos""",0.0,0.6666666666666665,0.0,0.4444444444444445
+o mérito da argumentação,mais persuasivo e mais monumental,0.0,0.0,0.0,0.0
+um comportamento não dirigido nem controlado pelo agente,"não intencional, porque o comportamento do agente é controlado",0.0,0.5555555555555556,0.125,0.3333333333333333
+"um acontecimento que envolve o agente, mas não depende da sua vontade",não envolve apenas a vontade,0.0,0.42105263157894735,0.11764705882352941,0.3157894736842105
+um acontecimento que depende apenas de causas externas à vontade do agente,independente da vontade do agente,0.0,0.37499999999999994,0.28571428571428575,0.37499999999999994
+1 e 4 são corretos; 2 e 3 são incorretos,1 e 2 são verdadeiras; 3 é falsa,0.0,0.6,0.2222222222222222,0.5
+2 e 3 são corretos; 1 e 4 são incorretos,1 e 2 são verdadeiras; 3 é falsa,0.0,0.6,0.2222222222222222,0.4
+"1, 2 e 3 são corretos; 4 é incorreto","1, 2, 3, 4, 5, 6",0.0,0.5333333333333333,0.15384615384615385,0.5333333333333333
+do falso dilema,falso dilema,0.0,0.8,0.6666666666666666,0.8
+da derrapagem,popular não é correto afirmar histórias de fantasmas,0.0,0.0,0.0,0.0
+do boneco de palha,popular não fazê-lo; é impróprio; não é razoável,0.0,0.0,0.0,0.0
+justificações irrefutáveis,efeito na forma como os sofistas ensinavam a retórica,0.0,0.0,0.0,0.0
+conhecimentos especializados,efeito na forma de pagamentos,0.0,0.0,0.0,0.0
+verdades impopulares,efeito na construção de pontes pontes,0.0,0.0,0.0,0.0
+sentimentos,todas as nossas ideias têm origem no mundo inteligível,0.0,0.0,0.0,0.0
+hábitos,todas as nossas ideias têm origem no mundo inteligível,0.0,0.0,0.0,0.0
+pensamentos,mundo inteligível,0.0,0.0,0.0,0.0
+verdadeiros … relativos,sintéticos ... imoralistas,0.0,0.0,0.0,0.0
+objetivos … subjetivos,sintéticos ... sujetivos,0.0,0.0,0.0,0.0
+concretos … abstratos,sintéticos ... imoralistas,0.0,0.0,0.0,0.0
+dar prioridade às pessoas que nos são mais próximas,dar prioridade às pessoas mais próximas,0.3665113625996641,0.7777777777777778,0.625,0.7777777777777778
+valorizar mais a comunidade do que o indivíduo,a maximização da utilidade individual,0.0,0.26666666666666666,0.0,0.26666666666666666
+satisfazer apenas o nosso interesse próprio racional,satisfazer a renda do indivíduo,0.0,0.14285714285714288,0.0,0.14285714285714288
+a simpatia pelos envolvidos,a qualidade dos seus serviços,0.0,0.2,0.0,0.2
+o interesse dos envolvidos,o interesse público,0.0,0.5,0.3333333333333333,0.5
+o benefício social,o empréstimo bancário,0.0,0.22222222222222224,0.0,0.22222222222222224
+"Se uma ação resulta do livre-arbítrio de alguém, então não existem leis da natureza",A natureza não tem livre-arbítrio,0.0,0.4999999999999999,0.23076923076923078,0.35714285714285715
+O conhecimento das leis da natureza e das circunstâncias relevantes permite prever qualquer ação,"da ação, sem conhecer as circunstâncias",0.0,0.4166666666666667,0.18181818181818182,0.25
+" Uma ação pode resultar de escolhas nossas, mas estas resultam de fatores genéticos e ambientais",uma combinação de fatores genéticos e ambientais,0.17788616890710254,0.6153846153846153,0.4166666666666667,0.6153846153846153
+mostrar que existe um ser perfeito,mostrar que não existe ser perfeito,0.0,0.7692307692307692,0.3636363636363636,0.7692307692307692
+descobrir quais são as ideias claras e distintas,encontrar ideias claras e distintas,0.3670124608961283,0.5714285714285714,0.5,0.5714285714285714
+provar que os sentidos nos enganam,provar que os sentidos nos enganam,1.0,1.0,1.0,1.0
+a ciência permite descobrir como é realmente a natureza,a ciência é um esforço de descobrir o que há de mais subjetivo,0.0,0.34782608695652173,0.1904761904761905,0.34782608695652173
+cada teoria representa melhor a realidade do que as teorias anteriores,as forças de ambas as teorias são melhores do que as teorias anteriores,0.2891784933232571,0.3846153846153846,0.3333333333333333,0.3846153846153846
+não existe qualquer forma de progresso científico,existe qualquer forma de conhecimento científico que prove que existe qualquer forma de progresso científico,0.3237722713145643,0.5384615384615384,0.5,0.5384615384615384
+a prática de desportos náuticos e a expansão das áreas de floresta,"ampliar a área de prática de desportos náuticos e, para além disso, incentivar",0.2676032275663791,0.5806451612903225,0.4137931034482759,0.5161290322580646
+a criação de parques industriais e a atração de população jovem,"criar um ambiente de regadio com grande dimensão, na qual a construção de barragens para",0.0,0.3225806451612903,0.06896551724137931,0.2580645161290323
+o aumento do turismo termal e a diversificação de serviços,"melhorar a qualidade dos serviços prestados e, assim, dinamizar o turismo de rega",0.0,0.5384615384615384,0.08333333333333334,0.23076923076923075
+a adoção de uma segunda língua oficial e a integração no espaço Schengen,a adoção da língua alemã como língua oficial,0.0,0.42857142857142855,0.3076923076923077,0.42857142857142855
+o respeito pelos direitos humanos e a integração no espaço Schengen,o respeito dos direitos humanos e a promoção da boa governação,0.27901593935858265,0.6153846153846154,0.3333333333333333,0.6153846153846154
+a adoção de uma segunda língua oficial e a proteção das minorias,a adoção da língua alemã como língua oficial,0.0,0.4615384615384615,0.3333333333333333,0.4615384615384615
+os surtos de pneumonia e as inundações,as inundações e o agravamento dos riscos de vida em terra,0.0,0.5,0.2222222222222222,0.3
+a dessecação dos solos e os deslizamentos de terras,os deslizamentos e as privações de liberdade,0.0,0.4444444444444445,0.125,0.33333333333333326
+a morte do gado e a eutrofização das águas superficiais,a flutuação das águas superficiais e o consequente derretimento das calotas,0.0,0.5217391304347826,0.28571428571428564,0.43478260869565216
+"junto da costa e destina-se, principalmente, ao mercado interno","ao longo das costas, principalmente no outono, quando se destina a abastecer o mercado interno",0.0,0.48,0.08695652173913043,0.24
+"junto da costa e destina-se, principalmente, ao mercado externo","ao longo das costas, principalmente, ao longo do ano anterior à Ilíada",0.1777835117834348,0.1818181818181818,0.09999999999999999,0.1818181818181818
+"afastada da costa e destina-se, principalmente, ao mercado interno","ao longo das costas, onde se pratica a pesca ao longo das costas",0.0,0.17391304347826086,0.0,0.17391304347826086
+diversifica a captura de espécies piscícolas nas águas costeiras,reduz a utilização das águas costeiras para alimentação de espécies insectívoras,0.0,0.4615384615384615,0.25,0.30769230769230765
+garante o abastecimento dos mercados em espécies piscícolas de águas profundas,evita a acumulação de espécies de espécies raras em águas pouco profundas,0.0,0.5,0.07692307692307691,0.42857142857142855
+assegura o cumprimento das quotas de pesca atribuídas a cada país,garante o cumprimento das quotas exigidas,0.2208335820317739,0.42105263157894735,0.35294117647058826,0.42105263157894735
+facilita o incremento da pesca costeira em alguns países da União Europeia,facilita a circulação de europeus por água corrente nos oceanos,0.0,0.16,0.0,0.16
+reduz a necessidade de mão de obra especializada no sector das pescas em Portugal,a taxa de mortalidade no sector das pescas é superior à taxa de mortalidade média em Portugal,0.18842393723950338,0.6451612903225806,0.2758620689655172,0.5161290322580646
+garante o aumento do volume de capturas de moluscos e bivalves em Portugal,aumenta a oferta de pesca artesanal e reduz a mortalidade infantil em Portugal,0.0,0.3076923076923077,0.08333333333333333,0.3076923076923077
+por construir Estações de Tratamento de Águas Residuais (ETAR) e por privilegiar a agricultura,pela utilização racional das águas e pela disposição final das mesmas,0.0,0.14285714285714288,0.0,0.14285714285714288
+por limitar o consumo de água no verão e por utilizar produtos químicos de síntese na agricultura,pela racionalização do uso e pela gestão da água,0.0,0.25806451612903225,0.0,0.12903225806451613
+por limitar a área destinada a culturas de sequeiro e por aplicar multas pesadas aos agentes poluidores,pela reserva de uma área destinada à recreação e pelo aproveitamento dos recursos hídricos,0.0,0.25,0.06666666666666667,0.18750000000000003
+do aumento da taxa de natalidade e da melhoria dos serviços de geriatria,do aumento da capacidade habitacional e do reforço da mobilidade urbana,0.0,0.3846153846153846,0.16666666666666669,0.3846153846153846
+da entrada de imigrantes dos países de Leste e da construção de autoestradas,"do ordenamento das autoestradas e da construção de pontes, na região leste, de entrada e",0.1702602472176709,0.5625,0.26666666666666666,0.3125
+da saída da mão de obra desqualificada e da fixação de sedes de multinacionais,da fixação de obras através da fixação de mão de obra desqualificada,0.2763738308030956,0.6666666666666667,0.45161290322580644,0.48484848484848486
+a grande flexibilidade nos percursos e o menor custo por unidade de carga transportada,o menor custo do transporte e a maior flexibilidade no fluxo de mercadorias,0.0,0.5185185185185186,0.16,0.29629629629629634
+a menor exposição aos congestionamentos de tráfego e a maior rapidez do processo de distribuição,maior rapidez na distribuição e menor custo do tráfego,0.0,0.6206896551724137,0.22222222222222224,0.27586206896551724
+o baixo consumo de combustível e a maior capacidade de se adequar ao tipo de carga transportada,o maior consumo de energia e a maior capacidade de carga,0.2606555988376248,0.6206896551724137,0.4444444444444445,0.6206896551724137
+da valorização do transporte de mercadorias através do modo rodoviário e da interoperacionalidade,da valorização do transporte de mercadorias por modo rodoviário e do ordenamento do território nacional,0.42311785416105785,0.7058823529411765,0.5625,0.6470588235294118
+da valorização do transporte de mercadorias por modo rodoviário e do reforço das ligações entre as principais capitais europeias,do reforço das ligações entre as principais capitais e do reforço das ligações entre os eixos de transporte,0.45789878651062504,0.6666666666666666,0.46511627906976744,0.4444444444444445
+do aumento da conexão das redes dos diferentes países e do reforço das ligações entre as cidades fronteiriças,do reforço das ligações entre nós e das cidades ligadas às estradas e do reforço das ligações entre nós,0.27602580646531577,0.4999999999999999,0.34782608695652173,0.4583333333333333
+captar investimento internacional e assegurar a coesão territorial ibérica,aumentar a coesão territorial e ampliar as receitas de capital portuguesa,0.0,0.43478260869565216,0.28571428571428564,0.34782608695652173
+revitalizar a economia regional e melhorar a mobilidade intraurbana no interior do país,melhorar a integração dos países dependentes da Espanha nos fluxos de mercadorias e reduzir a burocracia,0.0,0.31250000000000006,0.06666666666666667,0.1875
+expandir o hinterland dos portos nacionais e garantir a coesão territorial nacional,ampliar a integração dos países em desenvolvimento,0.0,0.27272727272727276,0.0,0.18181818181818185
+de fixar agregados familiares jovens com filhos e de promover a redução da imigração jovem,a redução da densidade dos agregados familiares,0.0,0.48,0.34782608695652173,0.31999999999999995
+de valorizar o modo de vida rural e de garantir o acesso à pensão de velhice sem penalizações,a melhoria do acesso à pensão à velhice e a construção de centros de saúde,0.0,0.5142857142857142,0.1818181818181818,0.22857142857142856
+de favorecer a criação de parques industriais e de melhorar a acessibilidade intraurbana,a criação de parques industriais para deficientes físicos,0.276715788893083,0.5,0.4545454545454546,0.5
+a nacionalização da floresta privada e o cultivo preferencial de espécies de crescimento rápido,a cobertura florestal e o manejo de espécies de rápido crescimento,0.0,0.6666666666666667,0.35714285714285715,0.5999999999999999
+a privatização da floresta pública e o cultivo exclusivo de espécies endémicas,a redução das importações de espécies endémicas e o cultivo de espécies nativas,0.0,0.5882352941176471,0.37500000000000006,0.47058823529411764
+o parcelamento das áreas florestais e a diversificação das espécies plantadas,dinamização das áreas de cobertura florestal e o abandono de espécies exóticas,0.0,0.5,0.23076923076923075,0.5
+"o níquel, nos minerais metálicos, e o calcário, nas rochas ornamentais",o quartzo e o gnaisse,0.0,0.3157894736842105,0.11764705882352941,0.3157894736842105
+"o urânio, nos minerais metálicos, e o granito, nas rochas ornamentais",o transporte de minerais de diferentes tipos nas rochas dimensionadas,0.0,0.34782608695652173,0.09523809523809525,0.34782608695652173
+"o volfrâmio, nos minerais metálicos, e o xisto, nas rochas ornamentais","o volfrâmio, o tungstênio e o gnaisse",0.0,0.4545454545454546,0.3,0.4545454545454546
+reduzir o custo dos fatores de produção e fomentar o associativismo dos agricultores,reduzir o custo dos produtos aos agricultores,0.184483733502461,0.4761904761904762,0.3157894736842105,0.4761904761904762
+promover o emparcelamento e contratar um maior número de assalariados agrícolas,promover a igualdade de rendimentos dos agricultores e promover a modernização da agricultura intensiva,0.0,0.28571428571428575,0.0,0.14285714285714288
+limitar as exportações de produtos agrícolas e investir no modo de produção integrado,incentivar a importação de produtos agrícolas tradicionais e aprofundar a produção de alimentos,0.0,0.5,0.26666666666666666,0.4375
+expandir a rede de transporte ferroviário e diminuir a contentorização no transporte marítimo,aumentar o acesso a meios de transporte marítimo e melhorar a acessibilidade aos mercados de transporte marítimo,0.0,0.5142857142857142,0.1818181818181818,0.45714285714285713
+diminuir os índices de sinistralidade do transporte rodoviário e baixar os níveis de poluição atmosférica,reduzir a sinistralidade rodoviária e reduzir os índices de poluição atmosférica,0.0,0.6060606060606061,0.3870967741935484,0.5454545454545454
+reduzir a quantidade de mercadorias transportadas por modo ferroviário e criar um sistema único de,reduzir a quantidade de mercadorias transportadas por modo ferroviário e incrementar o número de voos por dia,0.5581600587827487,0.6857142857142857,0.606060606060606,0.6857142857142857
+o controlo das pragas através de pesticidas e o apoio à indústria agroalimentar,a reforma das escolas públicas e o apoio financeiro,0.0,0.3333333333333333,0.18181818181818185,0.3333333333333333
+a ajuda à comercialização dos produtos biológicos e o apoio aos grandes sistemas de irrigação,a promoção da comercialização de produtos agrícolas e a proibição de cultivo de álcool,0.0,0.45714285714285713,0.06060606060606061,0.39999999999999997
+o apoio técnico à produção integrada e a ajuda direta ao turismo patrimonial,o apoio ao turismo Patrimonial e o apoio às atividades culturais,0.0,0.56,0.2608695652173913,0.4
+isóbaras,isolinhas,0.0,0.0,0.0,0.0
+isótimas,isolinhas,0.0,0.0,0.0,0.0
+isócronas,isolinhas,0.0,0.0,0.0,0.0
+ausência de custos em consultas médicas online,facilidade de comunicação entre os cidadãos de baixa renda,0.0,0.09999999999999999,0.0,0.09999999999999999
+aplicabilidade do teletrabalho em todas as profissões,facilidade de acesso à informação e de comunicação,0.0,0.0,0.0,0.0
+existência de equipamentos elétricos nas habitações,"maior transparência, uma vez que as TIC facilitam a comunicação entre os cidadãos e garantem",0.0,0.07407407407407407,0.0,0.07407407407407407
+pela variedade de parques para autocaravanas,pelo aumento do número de restaurantes de pequeno portes e pela redução do preço dos combustíveis nas passagens,0.0,0.14285714285714288,0.0,0.07142857142857144
+pelo acesso gratuito aos equipamentos culturais,pelo aumento do número de equipamentos culturais e pela preservação da paisagem urbana,0.0,0.28571428571428575,0.10526315789473682,0.28571428571428575
+pelo baixo valor médio da renda locativa,pelo aumento do valor da renda média das pessoas a visitar nas últimas décadas e pelo aumento do número,0.0,0.3333333333333333,0.07142857142857142,0.26666666666666666
+da monitorização dos parâmetros físico-químicos dos efluentes urbanos e agrícolas,da proteção da orla costeira e do ordenamento físico da área envolvida,0.0,0.3333333333333333,0.07142857142857144,0.26666666666666666
+da fiscalização das áreas emersas e submersas sob a jurisdição portuária da costa,da fiscalização da orla marítima e da proteção da fauna marinha,0.0,0.39999999999999997,0.14285714285714288,0.39999999999999997
+da seleção de espécies de bivalves para produção em sistema de aquicultura offshore,da produção de peixes planos e da produção de peixes planos,0.0,0.41379310344827586,0.14814814814814814,0.41379310344827586
+da pedreira de mármores da Serra da Arrábida,"da plataforma logística, que permite transportar mercadorias provenientes de Lisboa",0.0,0.1904761904761905,0.0,0.1904761904761905
+das minas da faixa piritosa do Alentejo,"da zona de exploração das minas de cobre, de Aljustrel e de de Sines",0.0,0.27272727272727276,0.1,0.18181818181818182
+dos principais aeroportos nacionais,pela proximidade dos principais aeroportos e pela proximidade dos principais mercados consumidores,0.0,0.375,0.28571428571428575,0.375
+divergente … maior,divergente ... menor,0.0,0.5,0.0,0.5
+convergente … menor,divergente ... menor,0.0,0.5,0.0,0.5
+divergente … menor,divergente ... menor,0.0,1.0,1.0,1.0
+"final, porque a farinha é uma matéria-prima usada pela empresa para a produção de biscoitos",de fácil digestão e é um bem de consumo,0.0,0.14814814814814817,0.0,0.14814814814814817
+"coletivo, porque a produção de biscoitos resulta do trabalho efetuado por várias famílias",coletivo,0.0,0.11764705882352941,0.0,0.11764705882352941
+"público, porque os biscoitos são empregues na satisfação das necessidades de várias famílias","negativo, pois os biscoitos são produzidos na própria fábrica",0.0,0.33333333333333337,0.21428571428571427,0.33333333333333337
+pessoas,a criação de uma área aduaneira para todos os fins de integração e a criação de,0.0,0.0,0.0,0.0
+capitais,a criação de uma área comercial livre e a criação de uma moeda comum,0.0,0.0,0.0,0.0
+serviços,a criação de uma área aduaneira para todos os fins de produção,0.0,0.125,0.0,0.125
+"o valor nominal da poupança efetuada pelas famílias, calculado em termos líquidos, expresso na",o valor médio do PIB,0.0,0.1739130434782609,0.09523809523809523,0.1739130434782609
+"o valor nominal do investimento realizado pelas empresas, calculado em termos brutos, expresso na mesma unidade monetária",o valor médio do investimento estrangeiro,0.0,0.32,0.1739130434782609,0.32
+"o valor do salário médio nacional, calculado a preços correntes, expresso na mesma unidade monetária",o valor médio do PIB,0.0,0.39999999999999997,0.1739130434782609,0.32
+ter boa articulação com as redes rodoviária e ferroviária,o elevado calado do porto e a existência de navios de carga no Fronteiriço ou,0.0,0.13793103448275862,0.0,0.13793103448275862
+dispor de elevada capacidade de armazenamento,a maior profundidade do calado do porto,0.0,0.0,0.0,0.0
+possuir modernos equipamentos de carga e descarga,"capacidade de carga e descarga elevada, o que permitiu a entrada de navios de grande capacidade",0.1431712315455507,0.34782608695652173,0.28571428571428575,0.34782608695652173
