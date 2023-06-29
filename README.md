@@ -7,3 +7,4 @@ Content:
 |--- pdf: Jupyter Notebook para geração de contexto a partir de pdfs + pdfs utilizados  
 |--- testing_notebooks: Jupyter Notebooks utilizados para rodar testes nos modelos gerados nos experimentos + resultados dos testes  
 |--- training_experiments: Jupyter Notebooks utilizados para realizar os experimentos de treinamento dos modelos  
+|--- PFG_Renan_1Sem_2023.pdf: Relatório do projeto
